@@ -1,5 +1,4 @@
-# This repo is outdated!!
-Please use the new repo, [here](https://github.com/ammirato/active_vision_dataset_processing)
+# This repo is outdated!!   [New Repository here](https://github.com/ammirato/active_vision_dataset_processing)
 
 
 #Active Vision Dataset Processing
