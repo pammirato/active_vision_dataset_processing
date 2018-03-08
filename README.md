@@ -1,3 +1,7 @@
+# This repo is outdated!!
+Please use the new repo, [here](https://github.com/ammirato/active_vision_dataset_processing)
+
+
 #Active Vision Dataset Processing
 
 This project contains Python and MATLAB scripts for processing the
